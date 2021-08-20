@@ -1,0 +1,37 @@
+[
+    {
+        "name":"Volkswagen-Polo",
+        "engine":"1.0 L 3-cylinder",
+        "tank":"45L",
+        "economy":"18kmpl",
+        "description":"Volkswagen Polo is a 5 seater Hatchback available in a price range of ₹ 6.21 - 10.00 Lakh"
+    },
+    {
+        "name":"Mahindra-Scorpio",
+        "engine":"2.2 L 4-cylinder",
+        "tank":"60L",
+        "economy":"14kmpl",
+        "description":"Mahindra Scorpio is a 7 seater SUV available in a price range of ₹ 12.66 - 17.47 Lakh"
+    },
+    {
+        "name":"Mahindra-Bolero",
+        "engine":"1.5 L 3-cylinder",
+        "tank":"50L",
+        "economy":"17kmpl",
+        "description":"Mahindra Bolero are pretty impressive. It is 3995 mm in length, 1745 mm in width and of course 1880 mm in height"
+    },
+    {
+        "name":"Ford-EcoSport",
+        "engine":"1.5 L 4-cylinder",
+        "tank":"52L",
+        "economy":"21kmpl",
+        "description":"Ford EcoSport is a 5 seater Compact SUV available in a price range of ₹ 8.19 - 11.70 Lakh"
+    },
+    {
+        "name":"Hyundai-Creta",
+        "engine":"1.5 L 4-cylinder",
+        "tank":"50L",
+        "economy":"21kmpl",
+        "description":"Hyundai Creta is a 5 seater SUV available in a price range of ₹ 10.15 - 17.86 Lakh"
+    }
+]

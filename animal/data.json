@@ -1,0 +1,47 @@
+[
+        {
+            "name":"Wolf",
+            "kingdom":"Animalia",
+            "phylum":"Chordata",
+            "class":"Mammalia",
+            "order":"Carnivora",
+            "family":"Canidae",
+            "description":"Wolf is of Carnivora order belongs to Canidae family"
+        },
+        {
+            "name":"Elephant",
+            "kingdom":"Animalia",
+            "phylum":"Chordata",
+            "class":"Mammalia",
+            "order":"Proboscidea",
+            "family":"Elephantidae",
+            "description":"Elephant is of Proboscidea order belongs to Elephantidae family"
+        },
+        {
+            "name":"Tiger",
+            "kingdom":"Animalia",
+            "phylum":"Chordata",
+            "class":"Mammalia",
+            "order":"Carnivora",
+            "family":"Felidae",
+            "description":"Tiger is of Carnivora order belongs to Felidae family"
+        },
+        {
+            "name":"Camel",
+            "kingdom":"Animalia",
+            "phylum":"Chordata",
+            "class":"Mammalia",
+            "order":"Artiodactyla",
+            "family":"Camelidae",
+            "description":"Camel is of Artiodactyla order belongs to Camelidae family"
+        },
+        {
+            "name":"Deer",
+            "kingdom":"Animalia",
+            "phylum":"Chordata",
+            "class":"Mammalia",
+            "order":"Artiodactyla",
+            "family":"Cervidae",
+            "description":"Deer is of Artiodactyla order belongs to Cervidae family"
+        }
+]
